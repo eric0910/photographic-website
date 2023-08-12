@@ -6,6 +6,7 @@ The website have a short introduction paragraph and my biography.
 The website was designed by Eric Kithinji.
 # Description.
 Photographic site is a webpage that contains an introduction paragraph about myself and some of my favorite pictures.
+I have deployed this in G h pages, follow the link https://github.com/eric0910/photographic-website.git
 # Technology.
 This webpage is designed using HTML.
 it is styled by Css.
