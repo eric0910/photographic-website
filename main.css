@@ -32,7 +32,7 @@ button{
 
 }
 form {
-    background-image:url(image.jpg/bg-image.jpg);
+    background-image:url(bg-image.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     height:600px;
